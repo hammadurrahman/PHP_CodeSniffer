@@ -70,3 +70,4 @@
         "yoda"
     ]
 }
+ "src/Standards/*/Tests/*/*.{inc,js,css}",
